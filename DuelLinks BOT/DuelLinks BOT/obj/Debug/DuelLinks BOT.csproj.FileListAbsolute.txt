@@ -1,0 +1,13 @@
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\bin\Debug\DuelLinks BOT.exe.config
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\bin\Debug\DuelLinks BOT.exe
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\bin\Debug\DuelLinks BOT.pdb
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\bin\Debug\Memory.dll
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\bin\Debug\Memory.xml
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\obj\Debug\DuelLinks BOT.csprojAssemblyReference.cache
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\obj\Debug\DuelLinks_BOT.Form1.resources
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\obj\Debug\DuelLinks_BOT.Properties.Resources.resources
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\obj\Debug\DuelLinks BOT.csproj.GenerateResource.cache
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\obj\Debug\DuelLinks BOT.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\obj\Debug\DuelLinks BOT.csproj.CopyComplete
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\obj\Debug\DuelLinks BOT.exe
+C:\Users\Alejo\source\repos\DuelLinks BOT\DuelLinks BOT\obj\Debug\DuelLinks BOT.pdb
